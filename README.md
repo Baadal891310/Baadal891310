@@ -1,142 +1,215 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7c3aed,50:2563eb,100:06b6d4&text=MD%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=60" />
-</p>
+<div align="center">
 
-<h1 align="center">🚀 Md Rakibul Islam</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7c3aed,50:2563eb,100:06b6d4&text=MD%20RAKIBUL%20ISLAM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Future%20Web%20Developer%20%7C%20Software%20Engineer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<h3 align="center">
-Future Web Developer • DSA Enthusiast • Software Engineer
-</h3>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Future+Web+Developer;Learning+C%2B%2B+and+DSA;Building+Projects+Everyday;Future+Software+Engineer;Never+Stop+Learning+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80;Future+Full+Stack+Web+Developer;Learning+C%2B%2B+%26+DSA+Everyday;Building+Real+World+Projects;Aspiring+Software+Engineer;Consistency+%3E+Motivation;Never+Stop+Learning+%F0%9F%94%A5" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Baadal891310&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Baadal891310?style=for-the-badge&color=blue" />
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Baadal891310&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Baadal891310?style=for-the-badge&color=2563eb&labelColor=black" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-06b6d4?style=for-the-badge&labelColor=black" />
 
-# 👨‍💻 About Me
+</div>
 
-🎓 Computer Science & Engineering Student at **Daffodil International University**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-📚 Currently studying in **3rd Semester**
+## 🧑‍💻 About Me
 
-💻 Passionate about:
+<img align="right" width="330" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif">
 
-- Data Structures & Algorithms
-- Problem Solving
-- Web Development
-- Software Engineering
+- 🎓 Computer Science & Engineering student at **Daffodil International University**
+- 📚 Currently in my **3rd Semester**
+- 🌱 Deeply focused on **Data Structures & Algorithms**, **Problem Solving**, and **Web Development**
+- 🛠️ Actively building real-world projects to sharpen my engineering skills
+- 🎯 **Mission:** Become a skilled Full Stack Web Developer & Software Engineer through consistency and continuous learning
+- ⚡ Fun fact: I believe *"small, boring, daily progress"* beats *"big, occasional bursts"* — every single time
 
-🎯 Current Goal:
+> 💬 *"Discipline is choosing between what you want now and what you want most."*
 
-> Become a skilled Full Stack Web Developer and Software Engineer through consistency and continuous learning.
+<br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-# ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,mysql,git,github,vscode,linux&theme=dark" />
 
-# 🚀 Current Learning
+</div>
 
-- 📘 C++
-- 📘 Data Structures & Algorithms
-- 📘 Web Development
-- 📘 SQL
-- 📘 Problem Solving
+<br/>
 
----
+<div align="center">
 
-# 📈 Developer Progress
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-```text
-C++               █████████░░ 85%
-DSA               ████████░░░ 75%
-Algorithms        ███████░░░░ 65%
-Web Development   █████░░░░░░ 45%
-SQL               ███░░░░░░░░ 30%
-English Skills    ██████░░░░░ 60%
-```
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-# 🎯 Current Mission
+## 📊 GitHub Analytics
 
-```text
-✅ Master C++
-✅ Complete DSA Fundamentals
-✅ Build Smart Meal Management System
-✅ Learn Full Stack Web Development
-✅ Become Internship Ready
-```
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Baadal891310&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baadal891310&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
 
-# 🚀 Featured Projects
+<br/>
 
-### 🍽 Smart Meal Management System
-A complete hostel and mess management solution.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Baadal891310&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" />
 
-### 📚 Student Management System
-Manage student records efficiently.
+<br/>
 
-### 💻 DSA Practice Repository
-My daily coding and problem solving journey.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baadal891310&theme=react-dark&hide_border=true&bg_color=0D1117&color=06b6d4&line=8B5CF6&point=ffffff" width="98%"/>
 
-### 🌐 Personal Portfolio Website
-Showcasing my projects and skills.
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-# 🌍 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Baadal891310&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
+
+## 🚀 Current Learning Focus
+
+<table align="center">
+<tr>
+<td align="center">📘<br/><b>C++</b></td>
+<td align="center">📘<br/><b>DSA</b></td>
+<td align="center">🌐<br/><b>Web Dev</b></td>
+<td align="center">🗄️<br/><b>SQL</b></td>
+<td align="center">🧩<br/><b>Problem Solving</b></td>
+</tr>
+</table>
+
+## 📈 Developer Progress
+
+<div align="center">
+
+**C++**  
+![](https://progress-bar.xyz/85?title=&color=7c3aed&width=500&suffix=%25)
+
+**Data Structures & Algorithms**  
+![](https://progress-bar.xyz/75?title=&color=8b5cf6&width=500&suffix=%25)
+
+**Algorithms**  
+![](https://progress-bar.xyz/65?title=&color=6366f1&width=500&suffix=%25)
+
+**Web Development**  
+![](https://progress-bar.xyz/45?title=&color=2563eb&width=500&suffix=%25)
+
+**SQL**  
+![](https://progress-bar.xyz/30?title=&color=0ea5e9&width=500&suffix=%25)
+
+**English Skills**  
+![](https://progress-bar.xyz/60?title=&color=06b6d4&width=500&suffix=%25)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
+
+## 🎯 Current Mission Checklist
+
+- [x] Master C++ Fundamentals
+- [x] Complete DSA Fundamentals
+- [x] Build Smart Meal Management System
+- [ ] Learn Full Stack Web Development
+- [ ] Become Internship Ready
+- [ ] Contribute to Open Source
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
+
+## 🌟 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/Baadal891310">
-<img src="https://skillicons.dev/icons?i=github" />
+<img width="410" alt="Smart Meal Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=Baadal891310&repo=Smart-Meal-Management-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Baadal891310">
+<img width="410" alt="Student Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=Baadal891310&repo=Student-Management-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9"/>
 </a>
 
+<a href="https://github.com/Baadal891310">
+<img width="410" alt="DSA Practice Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Baadal891310&repo=DSA-Practice&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Baadal891310">
+<img width="410" alt="Personal Portfolio Website" src="https://github-readme-stats.vercel.app/api/pin/?username=Baadal891310&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+> 💡 *Note: pinned-repo cards render automatically once the repo name matches an existing public repository on your GitHub — rename `repo=` above to match your real repo names.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Baadal891310/Baadal891310/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ *To activate the snake animation above, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly after your username — it auto-generates that SVG for you.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Baadal891310">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-# 💭 Developer Quote
+## ⚔️ My Coding Philosophy
 
-> "Small progress every day leads to big results."
-
----
-
-# ⚔️ My Coding Philosophy
+<div align="center">
 
 ```text
-Learn → Practice → Build → Improve → Repeat
+   Learn  →  Practice  →  Build  →  Improve  →  Repeat
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Small+progress+every+day+leads+to+big+results.;Consistency+beats+intensity.;Code.+Learn.+Repeat." />
 
-<p align="center">
+</div>
 
-⭐ If you like my work, consider following me ⭐
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" />
 
-</p>
+<div align="center">
 
-<p align="center">
+⭐ **If you like my work, consider following me — more projects are on the way!** ⭐
+
 ✨ Thanks for visiting my profile ✨
-</p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:06b6d4"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7c3aed,50:2563eb,100:06b6d4"/>
+
+</div>
