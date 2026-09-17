@@ -1,133 +1,96 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:6A5ACD,100:00BFFF&text=MD%20RAKIBUL%20ISLAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%7C%20DSA%20Explorer%20%7C%20Future%20Software%20Engineer&descAlignY=60" />
-</p>
+# ⚔️ Developer Profile
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Learning+Web+Development;Building+Projects+Everyday;Future+Software+Engineer+%F0%9F%9A%80" />
-</p>
+Name: Md Rakibul Islam
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baadal891310&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Baadal891310?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Baadal891310?style=for-the-badge&color=yellow" />
-</p>
+Class: CSE Student
 
----
+Level: 03
 
-# 👨‍💻 About Me
+Guild: Daffodil International University
 
-🎓 Computer Science & Engineering Student at **Daffodil International University**
-
-💡 Passionate about:
-
-- Data Structures & Algorithms
-- Competitive Programming
-- Web Development
-- Software Engineering
-
-🎯 Current Mission:
-
-> Become a highly skilled Software Engineer through consistency, discipline, and continuous learning.
+Current Mission:
+▰ Learn DSA
+▰ Build Projects
+▰ Become Software Engineer
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
-</p>
-
----
-
-# 🚀 Current Learning Journey
+## 🎮 Character Stats
 
 ```text
-C++              ██████████░░ 85%
-DSA              ████████░░░░ 75%
-Algorithms       ███████░░░░░ 65%
-Web Development  ████░░░░░░░░ 40%
-SQL              ███░░░░░░░░░ 30%
-English Skills   ██████░░░░░░ 60%
+Problem Solving      ████████░░ 80%
+C++                  ███████░░░ 75%
+DSA                  ██████░░░░ 65%
+Web Development      ███░░░░░░░ 35%
+Discipline           ███████░░░ 70%
+English Communication█████░░░░░ 55%
 ```
 
----
+## 🧠 Knowledge Tree
 
-# 📊 GitHub Analytics
+🌳 Programming
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baadal891310&show_icons=true&theme=tokyonight&hide_border=true" />
+├── C
 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baadal891310&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+├── C++
 
----
+├── Recursion
 
-# 🔥 Contribution Streak
+├── Data Structures
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Baadal891310&theme=tokyonight&hide_border=true" />
-</p>
+└── Algorithms
 
----
+🌳 Development
 
-# 🏆 GitHub Trophies
+├── HTML
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baadal891310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+├── CSS
+
+├── JavaScript
+
+└── React (Loading...)
 
 ---
 
-# 🐍 Contribution Snake
+## 🔥 Daily Quest
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🍽️ Smart Meal Management System
-
-Hostel & Mess Management Solution
-
-### 📚 Student Management System
-
-Manage Student Records Efficiently
-
-### 💻 DSA Practice Repository
-
-My Daily Problem Solving Journey
-
-### 🌐 Portfolio Website
-
-Personal Developer Portfolio
+- Solve 2 DSA Problems
+- Push Code to GitHub
+- Learn Something New
+- Build One Small Feature
 
 ---
 
-# 🌍 Connect With Me
+## 🏆 Achievements
 
-<p align="center">
+🥇 Started DSA Journey
 
-<a href="https://github.com/Baadal891310">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+🥈 Built GitHub Portfolio
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+🥉 Consistent Learning
 
-</p>
+🎯 Future Achievement: Internship
 
 ---
 
-# 💭 Favorite Quote
+## 🐍 Contribution Snake
 
-> "Discipline creates opportunities that motivation cannot."
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+## 🚀 Active Projects
+
+🍽 Smart Meal Management System
+
+📚 Student Management System
+
+💻 DSA Practice Repository
+
+🌐 Personal Portfolio Website
+
+---
+
+## 💭 Motto
+
+> "Every commit is one step closer to mastery."
