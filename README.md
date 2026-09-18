@@ -193,13 +193,13 @@ Uncomment and connect https://github.com/kittinan/spotify-github-profile to show
 <a href="https://github.com/Baadal891310">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/md-rakibul-islam-a2b136408">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:badolrakib1@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_FACEBOOK_LINK">
+<a href="https://www.facebook.com/baa.dal.424025">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
