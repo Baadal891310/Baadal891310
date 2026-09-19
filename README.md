@@ -34,7 +34,13 @@
   <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                      ABOUT ME                       -->
+<!-- =================================================== -->
 
 <h2 align="center">🔴 About Me</h2>
 
@@ -89,7 +95,196 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                   CODING JOURNEY                    -->
+<!-- =================================================== -->
+
+<h2 align="center">🚀 My Coding Journey &amp; Milestones</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=35&lines=From+First+HTML+Tag+on+SoloLearn+in+2019+📱;To+B.Sc.+in+Computer+Science+at+DIU+🎓;Mastering+DSA%2C+C%2B%2B%2C+and+Web+Development+🔥;Building+Impactful+Software+for+the+Future+🎯" width="100%" style="max-width: 650px;" alt="Coding Journey Typing" />
+</p>
+
+<p align="center">
+  Every software engineering path starts with a spark of genuine curiosity. My programming journey took root approximately <b>7 years ago (February 2019)</b>, when I wrote my very first lines of HTML code on my mobile phone using the <b>SoloLearn</b> platform under the username <code>Badolrakib</code>. What started as pure fascination with structuring forms and seeing markup render on a handheld screen has grown into a focused academic and professional pursuit — pursuing a <b>B.Sc. in Computer Science & Engineering at Daffodil International University</b>, solving algorithmic challenges, and crafting full-stack software.
+</p>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/2019-The_Beginning-DC2626?style=for-the-badge&logo=html5&logoColor=white" alt="2019" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>🚀 First HTML Code on SoloLearn (7 Years Ago)</h3>
+      <p>Wrote my first HTML experiments on <b>February 26, 2019</b> using SoloLearn on a smartphone. Created custom login and password recovery forms, explored web tags, and discovered the magic of code transforming into visual UI. I still preserve these original screenshots as a badge of honor from where it all started.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SoloLearn-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/Milestone-First_Code_Written-111111?style=flat-square" alt="First Code" />
+        <img src="https://img.shields.io/badge/Device-Mobile_Tinkering-DC2626?style=flat-square" alt="Mobile Tinkering" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/⬇-Evolution-111111?style=flat-square" alt="down" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/2020--2022-Exploration-DC2626?style=for-the-badge&logo=codeforces&logoColor=white" alt="2020-2022" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>💻 Exploring Technology &amp; Programming</h3>
+      <p>Transitioned from basic markup into computational thinking, software fundamentals, and web architecture. Explored how applications interact, honed self-learning discipline, and set my sights firmly on pursuing Computer Science as my lifelong career.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Self--Taught-Deep_Curiosity-111111?style=flat-square" alt="Self Taught" />
+        <img src="https://img.shields.io/badge/Foundations-Computational_Thinking-DC2626?style=flat-square" alt="Computational Thinking" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/⬇-Academic_Step-111111?style=flat-square" alt="down" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/2023-Undergraduate-DC2626?style=for-the-badge&logo=academia&logoColor=white" alt="2023" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>🎓 Started CSE at Daffodil International University</h3>
+      <p>Commenced my formal B.Sc. in Computer Science &amp; Engineering at DIU. Elevated self-taught passion into rigorous computer science theory, structured programming paradigms, discrete mathematics, and software engineering principles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/University-Daffodil_Intl_University-111111?style=flat-square" alt="DIU" />
+        <img src="https://img.shields.io/badge/Degree-B.Sc._in_CSE-DC2626?style=flat-square" alt="B.Sc. CSE" />
+        <img src="https://img.shields.io/badge/Status-4th_Semester-111111?style=flat-square" alt="4th Semester" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/⬇-Problem_Solving-111111?style=flat-square" alt="down" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/2023--2024-Core_Skills-DC2626?style=for-the-badge&logo=cplusplus&logoColor=white" alt="2023-2024" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>🔥 Learning C, C++, Data Structures &amp; Algorithms</h3>
+      <p>Dived deep into memory pointers, OOP concepts, standard data structures (Arrays, Linked Lists, Stacks, Queues, Trees), and algorithmic complexity. Solving competitive programming problems actively on LeetCode to build razor-sharp problem-solving instincts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Languages-C_%2F_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" />
+        <img src="https://img.shields.io/badge/Focus-DSA_%26_Optimization-DC2626?style=flat-square" alt="DSA" />
+        <img src="https://img.shields.io/badge/LeetCode-Active_Problem_Solver-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/⬇-Practical_Engineering-111111?style=flat-square" alt="down" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Present-Web_Dev-DC2626?style=for-the-badge&logo=javascript&logoColor=white" alt="Present" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>🌐 Web Development Journey &amp; Software Systems</h3>
+      <p>Applying algorithmic foundations into building scalable, real-world software applications. Engineered practical systems such as the <i>Smart Meal Management System</i> and <i>Student Management System</i> using modern JavaScript, responsive interfaces, and relational database systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Frontend-HTML5_•_CSS3_•_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web Dev" />
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Projects-Production_Ready-DC2626?style=flat-square" alt="Projects" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/⬇-The_Horizon-111111?style=flat-square" alt="down" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center" style="padding: 12px; background: rgba(220, 38, 38, 0.08); border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Future-Aspiration-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="Future" />
+    </td>
+    <td width="78%" style="padding: 12px 18px;">
+      <h3>🎯 Future Goal: Web Developer &amp; Data Analyst</h3>
+      <p>Bridging full-stack software engineering with data-driven decision making. Actively preparing for competitive software engineering internships, contributing to impactful open-source projects, and expanding expertise into data analytics to build high-performance systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Career_Target-Full_Stack_Engineer-DC2626?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/Domain-Data_Analytics-111111?style=flat-square" alt="Data Analytics" />
+        <img src="https://img.shields.io/badge/Mission-Building_Impact-DC2626?style=flat-square" alt="Impact" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              MY FIRST CODING MEMORIES               -->
+<!-- =================================================== -->
+
+<h2 align="center">✨ My First Coding Memories</h2>
+
+<p align="center">
+  <i>"Every senior engineer once wrote their very first line of code with wonder and curiosity."</i>
+</p>
+
+<p align="center">
+  Back in <b>February 2019 (over 7 years ago)</b>, before university and without a sophisticated development environment, I wrote my earliest HTML code on a mobile smartphone using the <b>SoloLearn</b> app under the username <code>Badolrakib</code>. These preserved screenshots capture that memorable beginning — from experimenting with password recovery form tags to building my first project repository.
+</p>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="33.33%" align="center" valign="top" style="padding: 10px;">
+      <a href="assets/sololearn-code.jpg" target="_blank">
+        <img src="assets/sololearn-code.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="First HTML Code on SoloLearn" />
+      </a>
+      <br /><br />
+      <b>📱 The First Lines of Code</b><br />
+      <sub><b>Date:</b> Feb 26, 2019 (23:26)</sub><br />
+      <sub>Writing custom HTML form tags, input elements &amp; buttons directly on a mobile screen.</sub>
+    </td>
+    <td width="33.33%" align="center" valign="top" style="padding: 10px;">
+      <a href="assets/sololearn-projects.jpg" target="_blank">
+        <img src="assets/sololearn-projects.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="SoloLearn Early Projects Archive" />
+      </a>
+      <br /><br />
+      <b>📂 Early Project Archives</b><br />
+      <sub><b>Projects:</b> Beginner!!, Hacking, 2019 Codes</sub><br />
+      <sub>My early SoloLearn repository archiving initial code experiments from 7 years ago.</sub>
+    </td>
+    <td width="33.33%" align="center" valign="top" style="padding: 10px;">
+      <a href="assets/sololearn-output.jpg" target="_blank">
+        <img src="assets/sololearn-output.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="Rendered HTML Output on Mobile" />
+      </a>
+      <br /><br />
+      <b>🌐 The First Rendered Output</b><br />
+      <sub><b>Result:</b> Live Mobile UI Form</sub><br />
+      <sub>The electrifying moment my handwritten HTML code rendered visually on screen!</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>💡 <i>These screenshots are an irreplaceable reminder that consistency, genuine curiosity, and humble beginnings can evolve into true engineering capability.</i></sub>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                 FEATURED PROJECTS                   -->
+<!-- =================================================== -->
 
 <h2 align="center">🔴 Featured Projects Spotlight</h2>
 
@@ -114,7 +309,13 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                LEETCODE PROBLEM SOLVING             -->
+<!-- =================================================== -->
 
 <h2 align="center">🧩 LeetCode Problem Solving</h2>
 
@@ -136,7 +337,13 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                 TECH STACK & SKILLS                 -->
+<!-- =================================================== -->
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
@@ -178,7 +385,13 @@
   <img src="https://img.shields.io/badge/Data_Analytics-0a0a0a?style=for-the-badge&logo=googleanalytics&logoColor=EF4444" alt="Data Analytics" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              GITHUB ANALYTICS & ACTIVITY            -->
+<!-- =================================================== -->
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
@@ -193,10 +406,20 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baadaldev&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444&radius=8" width="100%" style="max-width: 820px;" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code Quote" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                CONTRIBUTION JOURNEY                 -->
+<!-- =================================================== -->
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
@@ -204,7 +427,13 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              CONNECT & COLLABORATE                  -->
+<!-- =================================================== -->
 
 <h2 align="center">📬 Let's Connect & Collaborate</h2>
 
