@@ -299,3 +299,179 @@
       <p><i>A structured academic management application developed to organize student records, course information, enrollment details, and academic data operations seamlessly.</i></p>
       <br />
       <h3>🧩 Data Structures &amp; Algorithms Practice Repository</h3>
+      <p><i>A dedicated repository archiving solutions to algorithmic challenges, standard data structures implementations, and problem-solving milestones in C++ and JavaScript.</i></p>
+      <br />
+      <p>
+        <a href="https://github.com/baadaldev?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                LEETCODE PROBLEM SOLVING             -->
+<!-- =================================================== -->
+
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Baadal89131?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                 TECH STACK & SKILLS                 -->
+<!-- =================================================== -->
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css&theme=dark" width="100%" style="max-width: 320px;" alt="Core Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Frontend &amp; Responsive Web Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="100%" style="max-width: 200px;" alt="Frontend Skills" />
+  </a>
+</p>
+
+<p align="center"><b>Database &amp; Backend (Currently Learning)</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="100%" style="max-width: 80px;" alt="Database Skills" />
+  </a>
+</p>
+
+<p align="center"><b>Tools &amp; Development Environment</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="100%" style="max-width: 200px;" alt="Tools and Technologies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=EF4444" alt="Data Structures and Algorithms" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=EF4444" alt="Problem Solving" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Responsive_Web_Design-0a0a0a?style=for-the-badge&logo=css3&logoColor=EF4444" alt="Responsive Web Design" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data_Analytics-0a0a0a?style=for-the-badge&logo=googleanalytics&logoColor=EF4444" alt="Data Analytics" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              GITHUB ANALYTICS & ACTIVITY            -->
+<!-- =================================================== -->
+
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=baadaldev&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baadaldev&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baadaldev&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baadaldev&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444&radius=8" width="100%" style="max-width: 820px;" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code Quote" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--                CONTRIBUTION JOURNEY                 -->
+<!-- =================================================== -->
+
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              CONNECT & COLLABORATE                  -->
+<!-- =================================================== -->
+
+<h2 align="center">📬 Let's Connect & Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss software development, explore open-source opportunities, or discuss tech — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://www.linkedin.com/in/md-rakibul-islam-a2b136408" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+      </a>
+      <br />
+      <sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://www.facebook.com/baa.dal.424025" target="_blank">
+        <img src="https://skillicons.dev/icons?i=facebook" width="60" height="60" alt="Facebook" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Facebook-Follow-DC2626?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" alt="Facebook" />
+      </a>
+      <br />
+      <sub><b>Social Connection</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="mailto:badolrakib1@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+      </a>
+      <br />
+      <sub><b>Direct Inquiries</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
