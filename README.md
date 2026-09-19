@@ -106,7 +106,7 @@
 <h2 align="center">🚀 My Coding Journey &amp; Milestones</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=35&lines=From+First+HTML+Tag+on+SoloLearn+in+2019+📱;Joined+CSE+at+DIU+on+Sept+12%2C+2025+🎓;Mastering+DSA%2C+C%2B%2B%2C+and+Web+Development+🔥;Building+Impactful+Software+for+the+Future+🎯" width="100%" style="max-width: 650px;" alt="Coding Journey Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=35&lines=From+First+HTML+Tag+on+SoloLearn+in+2019;Joined+CSE+at+DIU+on+Sept+12%2C+2025;Mastering+DSA%2C+C%2B%2B%2C+and+Web+Development;Building+Impactful+Software+for+the+Future" width="100%" style="max-width: 650px;" alt="Coding Journey Typing" />
 </p>
 
 <p align="center">
@@ -407,7 +407,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baadaldev&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444&radius=8" width="100%" style="max-width: 820px;" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=baadaldev&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444&radius=8" width="100%" style="max-width: 820px;" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
