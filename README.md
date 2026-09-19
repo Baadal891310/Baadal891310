@@ -30,7 +30,12 @@
   </a>
 </p>
 
+<!-- Quick Portfolio Access Pill -->
 <p align="center">
+  <a href="https://baadaldev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -91,6 +96,47 @@
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🤝 Collaboration</h4>
       <p><b>Web & Software Projects</b><br /><sub>Open to exciting academic & software projects</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
+</p>
+
+<!-- =================================================== -->
+<!--              INTERACTIVE PORTFOLIO SHOWCASE         -->
+<!-- =================================================== -->
+
+<h2 align="center">🌐 Interactive Portfolio Website</h2>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" style="padding: 24px; background: rgba(220, 38, 38, 0.05); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 14px;">
+      <p align="center">
+        <a href="https://baadaldev.github.io" target="_blank">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=32&lines=Explore+My+Full+Interactive+Portfolio+Website;Dark+Crimson+Glassmorphism+UI;Interactive+7-Year+Timeline+Roadmap;Full-Stack+Systems+and+LeetCode+Tracker" alt="Portfolio Typing" />
+        </a>
+      </p>
+      <p align="center">
+        Experience my complete developer portfolio built with a <b>Dark Crimson Glassmorphic</b> aesthetic — featuring my interactive 7-year coding journey, SoloLearn nostalgic memory gallery with full-screen lightbox, featured systems architecture, and live algorithmic dashboard.
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Design-Dark_Crimson_Glassmorphism-111111?style=flat-square" alt="Design" />
+        <img src="https://img.shields.io/badge/Features-Interactive_Timeline_%26_Lightbox-DC2626?style=flat-square" alt="Features" />
+        <img src="https://img.shields.io/badge/Responsive-100%25_Mobile_%26_Desktop-111111?style=flat-square" alt="Responsive" />
+      </p>
+      <br />
+      <p align="center">
+        <a href="https://baadaldev.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_Portfolio_Website-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Launch Live Site" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/baadaldev/baadaldev.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Portfolio_Repository-View_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
