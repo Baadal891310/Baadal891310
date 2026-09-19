@@ -246,8 +246,8 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td width="33.33%" align="center" valign="top" style="padding: 10px;">
-      <a href="assets/sololearn-code.jpg" target="_blank">
-        <img src="assets/sololearn-code.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="First HTML Code on SoloLearn" />
+      <a href="https://files.catbox.moe/t32663.jpg" target="_blank">
+        <img src="https://files.catbox.moe/t32663.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="First HTML Code on SoloLearn" />
       </a>
       <br /><br />
       <b>📱 The First Lines of Code</b><br />
@@ -255,8 +255,8 @@
       <sub>Writing custom HTML form tags, input elements &amp; buttons directly on a mobile screen.</sub>
     </td>
     <td width="33.33%" align="center" valign="top" style="padding: 10px;">
-      <a href="assets/sololearn-projects.jpg" target="_blank">
-        <img src="assets/sololearn-projects.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="SoloLearn Early Projects Archive" />
+      <a href="https://files.catbox.moe/qn2gi2.jpg" target="_blank">
+        <img src="https://files.catbox.moe/qn2gi2.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="SoloLearn Early Projects Archive" />
       </a>
       <br /><br />
       <b>📂 Early Project Archives</b><br />
@@ -264,8 +264,8 @@
       <sub>My early SoloLearn repository archiving initial code experiments from 7 years ago.</sub>
     </td>
     <td width="33.33%" align="center" valign="top" style="padding: 10px;">
-      <a href="assets/sololearn-output.jpg" target="_blank">
-        <img src="assets/sololearn-output.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="Rendered HTML Output on Mobile" />
+      <a href="https://files.catbox.moe/y5tvf7.jpg" target="_blank">
+        <img src="https://files.catbox.moe/y5tvf7.jpg" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; max-height: 380px; object-fit: contain; background: #0a0a0a;" alt="Rendered HTML Output on Mobile" />
       </a>
       <br /><br />
       <b>🌐 The First Rendered Output</b><br />
